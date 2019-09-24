@@ -74,7 +74,7 @@ https://www.tooplate.com/view/2115-marvel
                             <span class="mr-2">Hey guys! I'm </span>
                                 <div class="animated-info">
                                     <span class="animated-item">Kevin</span>
-                                    <span class="animated-item">a I.T Student</span>
+                                    <span class="animated-item">an I.T Student</span>
                                     <span class="animated-item">a Gamer</span>
                                 </div>
                         </h1>
