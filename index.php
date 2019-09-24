@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Marvel HTML Bootstrap 4 Template</title>
+    <title>labproject</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/unicons.css">
@@ -71,15 +71,15 @@ https://www.tooplate.com/view/2115-marvel
                     <div class="about-text">
                         <small class="small-text">Welcome to <span class="mobile-block">my portfolio website!</span></small>
                         <h1 class="animated animated-text">
-                            <span class="mr-2">Hey guys!, I'm </span>
+                            <span class="mr-2">Hey guys! I'm </span>
                                 <div class="animated-info">
                                     <span class="animated-item">Kevin</span>
-                                    <span class="animated-item">I.T Student</span>
-                                    <span class="animated-item">Gamer</span>
+                                    <span class="animated-item">a I.T Student</span>
+                                    <span class="animated-item">a Gamer</span>
                                 </div>
                         </h1>
 
-                        <p>From BSIT-MI181. 18 years old. I like building, cleaning computer and help friends who are in need creating their own computer setup.</p>
+                        <p>From BSIT-MI181. 18 years old. I like putting together pc parts, cleaning computer and help friends who are in need creating their own computer setup.</p>
                         
                         <div class="custom-btn-group mt-4">
             
@@ -179,8 +179,8 @@ https://www.tooplate.com/view/2115-marvel
                <div class="row">
 
                     <div class="col-lg-12 col-12">                                
-                        <p class="copyright-text text-center">Copyright &copy; 2019 Company Name . All rights reserved</p>
-                        <p class="copyright-text text-center">Designed by <a rel="nofollow" href="https://www.facebook.com/tooplate">Tooplate</a></p>
+                        <p class="copyright-text text-center">Copyright &copy; Kevin Banglagan. All rights reserved</p>
+
                     </div>
                     
                </div>
