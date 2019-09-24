@@ -111,37 +111,37 @@ https://www.tooplate.com/view/2115-marvel
                       <div class="owl-carousel owl-theme">
                         <div class="item">
                           <div class="project-info">
-                            <img src="images/project/java.jpg" class="img-fluid" alt="project image">
+                            <img src="images/project/java.JPG" class="img-fluid" alt="">
                           </div>
                         </div>
 
                         <div class="item">
                           <div class="project-info">
-                            <img src="images/project/lp.jpg" class="img-fluid" alt="project image">
+                            <img src="images/project/lp.JPG" class="img-fluid" alt="">
                           </div>
                         </div>
 
                         <div class="item">
                           <div class="project-info">
-                            <img src="images/project/msw.jpg" class="img-fluid" alt="project image">
+                            <img src="images/project/msw.JPG" class="img-fluid" alt="">
                           </div>
                         </div>
 
                         <div class="item">
                           <div class="project-info">
-                            <img src="images/project/uxa.jpg" class="img-fluid" alt="project image">
+                            <img src="images/project/uxa.JPG" class="img-fluid" alt="">
                           </div>
                         </div>
 
                         <div class="item">
                           <div class="project-info">
-                            <img src="images/project/uxp.jpg" class="img-fluid" alt="project image">
+                            <img src="images/project/uxp.JPG" class="img-fluid" alt="">
                           </div>
                         </div>
 
                         <div class="item">
                           <div class="project-info">
-                            <img src="images/project/uxr.jpg" class="img-fluid" alt="project image">
+                            <img src="images/project/uxr.JPG" class="img-fluid" alt="">
                           </div>
                         </div>
                       </div>
