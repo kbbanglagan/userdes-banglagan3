@@ -44,10 +44,13 @@ https://www.tooplate.com/view/2115-marvel
                         <a href="#about" class="nav-link"><span data-hover="About">About</span></a>
                     </li>
                     <li class="nav-item">
-                        <a href="#project" class="nav-link"><span data-hover="Learnings">Learnings</span></a>
+                        <a href="#resume" class="nav-link"><span data-hover="Learnings">Learnings</span></a>
                     </li>
                     <li class="nav-item">
-                        <a href="#resume" class="nav-link"><span data-hover="Activity/Reflections">Activity/Reflections</span></a>
+                        <a href="activities.html" class="nav-link"><span data-hover="Activities">Activities</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="reflection.html" class="nav-link"><span data-hover="Reflections">Reflections</span></a>
                     </li>
                </ul>
                 <ul class="navbar-nav ml-lg-auto">
@@ -97,73 +100,42 @@ https://www.tooplate.com/view/2115-marvel
         </div>
     </section>
 
-    <!-- PROJECTS -->
-    <section class="project py-5" id="project">
-        <div class="container">
-                
-                <div class="row">
-                  <div class="col-lg-11 text-center mx-auto col-12">
-
-                      <div class="col-lg-8 mx-auto">
-                        <h2>My Linkedin Certificates</h2>
-                      </div>
-
-                      <div class="owl-carousel owl-theme">
-                        <div class="item">
-                          <div class="project-info">
-                            <img src="images/project/java.JPG" class="img-fluid" alt="">
-                          </div>
-                        </div>
-
-                        <div class="item">
-                          <div class="project-info">
-                            <img src="images/project/lp.JPG" class="img-fluid" alt="">
-                          </div>
-                        </div>
-
-                        <div class="item">
-                          <div class="project-info">
-                            <img src="images/project/msw.JPG" class="img-fluid" alt="">
-                          </div>
-                        </div>
-
-                        <div class="item">
-                          <div class="project-info">
-                            <img src="images/project/uxa.JPG" class="img-fluid" alt="">
-                          </div>
-                        </div>
-
-                        <div class="item">
-                          <div class="project-info">
-                            <img src="images/project/uxp.JPG" class="img-fluid" alt="">
-                          </div>
-                        </div>
-
-                        <div class="item">
-                          <div class="project-info">
-                            <img src="images/project/uxr.JPG" class="img-fluid" alt="">
-                          </div>
-                        </div>
-                      </div>
-
-                  </div>
-                </div>
-        </div>
-    </section>
 
     <!-- FEATURES -->
     <section class="resume py-5 d-lg-flex justify-content-center align-items-center" id="resume">
         <div class="container">
             <div class="row">
 
+            	<div class="col-lg-12 mx-auto">
+                        <h2>My Linkedin Certificates</h2>
+                      </div>
+
                 <div class="col-lg-6 text-center col-12">
-                  <h2 class="mb-4">Activities</h2>
-                  <a href="activities.html">For my activities, click here!</a>
+                  <img src="images/project/java.JPG" class="img-fluid" alt="">
+
                 </div>
 
                 <div class="col-lg-6 text-center col-12">
-                  <h2 class="mb-4 mobile-mt-2">Reflections</h2>
-                  <a href="reflection.html">For my reflections, click here!</a>
+                  <img src="images/project/lp.JPG" class="img-fluid" alt="">
+
+                </div>
+
+                <div class="col-lg-6 text-center col-12">
+                  <img src="images/project/msw.JPG" class="img-fluid" alt="">
+
+                </div>
+
+                <div class="col-lg-6 text-center col-12">
+                  <img src="images/project/uxa.JPG" class="img-fluid" alt="">
+
+                </div>
+
+                <div class="col-lg-6 text-center col-12">
+                  <img src="images/project/uxp.JPG" class="img-fluid" alt="">
+                </div>
+
+                <div class="col-lg-6 text-center col-12">
+                	<img src="images/project/uxr.JPG" class="img-fluid" alt="">
                     
                     </div>
                 </div>
